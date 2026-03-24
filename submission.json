@@ -1,7 +1,6 @@
 {
   "prompt": "Machine learning concept 'gradient descent' depicted as a Japanese ukiyo-e woodblock print. A lone traveler descends a steep layered mountain path toward a calm valley, symbolizing iterative optimization toward a minimum. High flattened perspective, asymmetrical composition, bold contour lines, repeated ridge patterns like a loss surface, limited mineral palette (indigo, muted green, earth tones), flat color regions with subtle bokashi gradients. Strong use of negative space. No text, no modern elements.",
   "model": "gpt-image-1.5-high-fidelity",
-  "model": "Midjourney v6.1",
   "concept": "gradient descent",
   "tradition_name": "19th‑century naturalist scientific illustration",
   "tradition_period": "1800–1900",
